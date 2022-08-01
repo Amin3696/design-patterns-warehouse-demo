@@ -3,8 +3,8 @@
 ## About
 
 ## What are Design patterns?
-### applied during Software design
-### Not specific solutions, but general "guidelines"
+#### reusable "solutions", applied during Software design.
+#### Not specific solutions, but general "guidelines". 
 
 ## Why should we use one? 
 ### to solve these problems:
