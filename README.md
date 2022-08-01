@@ -2,12 +2,18 @@
 
 ## About
 
-Video course companion code.
+## What are Design patterns?
+### applied during Software design
+### Not specific solutions, but general "guidelines"
 
-## How to Use
+## Why should we use one? 
+### to solve these problems:
+#### code duplication
+#### code bloat
+#### untestable code
+#### Rigid, brittle design
+#### Inheritance abuse
+#### unmaintainable code
+#### technical dept
 
-The repo contains a branch for each video section.
-
-E.g. if you are at  _Section 2_ and plan to watch _Video 3_ then checkout the branch called `2.3`.
-
-By the end of the video your code should reach the state available in branch `2.4`.
+The repo contains a branch for each section.
